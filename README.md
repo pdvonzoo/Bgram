@@ -1,7 +1,10 @@
 # Bgram
 
-## User Ttories
+## User Stories
 
+- [x] Create account
+- [ ] Request Secret
+- [ ] Conform Secret (Login)
 - [ ] See the feed
 - [ ] Like / Unlike a photo
 - [ ] Comment on a photo
@@ -11,7 +14,5 @@
 - [ ] Follow / Unfollow User
 - [ ] See the full photo
 - [ ] Edit my profile
-- [ ] Create account
-- [ ] Log in
 - [ ] Upload photo
 - [ ] Edit the photo (Delete)
